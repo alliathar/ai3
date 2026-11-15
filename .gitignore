@@ -1,4 +1,9 @@
-.DS_Store
-__MACOSX/
+# Personal study notes - not part of the submission
+study.pdf
+docs/study.tex
+
+# LaTeX build files
+docs/build/
+
+# Python cache
 __pycache__/
-*.pyc
